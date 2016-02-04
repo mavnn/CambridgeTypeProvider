@@ -1,0 +1,9 @@
+
+GITHUB
+  remote: fsprojects/FSharp.TypeProviders.StarterPack
+  specs:
+    src/ProvidedTypes.fs (04dbfdd8a11638989c2785889d99b0999f6244a4)
+    src/ProvidedTypes.fsi (04dbfdd8a11638989c2785889d99b0999f6244a4)
+  remote: mavnn/EmParsec
+  specs:
+    EmParsec.fsx (321894862e2f5fc62a1d09e9c8ab863413274f85)

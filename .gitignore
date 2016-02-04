@@ -1,0 +1,4 @@
+paket-files
+*.exe
+*.dll
+.#*

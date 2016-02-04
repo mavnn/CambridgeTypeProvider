@@ -25,3 +25,9 @@ let compile1 () =
 
 let compile2 () =
   compile [pt;"2_static_type.fsx"] []
+
+let compile4 () =
+  compile [pt;"4_with_parameter.fsx"] []
+
+let compile5() =
+  compile [pt;"5_classes.fsx"] []

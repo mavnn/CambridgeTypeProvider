@@ -31,3 +31,6 @@ let compile4 () =
 
 let compile5() =
   compile [pt;"5_classes.fsx"] []
+
+let compile6() =
+  compile [pt;"6_dependent_functions.fsx"] []
